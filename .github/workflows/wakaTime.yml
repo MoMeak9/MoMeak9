@@ -1,4 +1,4 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
   push:
@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: MoMeak9/waka-readme@master
+      - uses: MoMeak9/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
