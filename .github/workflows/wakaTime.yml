@@ -1,25 +1,16 @@
-name: Waka Readme
+name: WakaTime Readme
 
 on:
   push:
     branches:
       - master
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '0 19 * * *'
 
 jobs:
   update-readme:
-    name: 更新wakatime README
     runs-on: ubuntu-latest
     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-# #           GH_TOKEN: ${{ secrets.GH_TOKEN}}
-#           USERNAME: eternidad33
-#           SHOW_TITLE: true
-      - uses: MoMeak9/waka-readme-stats@master
+      - uses: MoMeak9/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
