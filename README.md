@@ -1,17 +1,17 @@
-### Hi there 👋
+# Hi there MoMeak9 🎃
 
-<!--
-**MoMeak9/MoMeak9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正在学习的编程小白
 
-Here are some ideas to get you started:
+I am a college student in China 🏫, like to pay attention to current affairs hot spots 🆕, Bilibili users 📺. You can reach me at the following ways：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
+- 🏫I'm studying in Fuzhou University
+
+- 🤺Use daily:
+
+- 💻Work using:
+
+- 🖥️Use and work:
+
+- 🍳Learning:
+
+[https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
