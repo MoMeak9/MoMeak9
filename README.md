@@ -14,4 +14,4 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 
 - 🍳Learning:
 
-[https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
