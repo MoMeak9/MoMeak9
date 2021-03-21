@@ -7,7 +7,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 - 🤺Use daily:
   ![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)
   ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-  ![](https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=IDEA&logoColor=ffffff)
+  ![](https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=IDEA&logoColor=ffffff)
 - 💻Work using language:
   ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 - 🖥️Using tools:
