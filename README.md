@@ -9,6 +9,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
   ![](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
   ![](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=ffffff)
+  ![](https://img.shields.io/badge/Eclipse-IDE-000000?style=flat-square&logo=Eclipse-IDE&logoColor=ffffff)
 - 💻Work using language:
   ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 - 🖥️Using tools:
