@@ -1,6 +1,8 @@
-# Hey, MoMeak9 here! 🎃
+# Hey, MoMeak9 here! 🎃 ![](https://visitor-badge.glitch.me/badge?page_id=MoMeak9.readme)
 
-正在学习的编程小白
+![](http://antzuhl.cn:4000/get/@MoMeak9.readme)
+
+正在学习编程的小白
 
 I am a college student in China 🏫, like to pay attention to current affairs hot spots 🆕, Bilibili users 📺. You can reach me at the following ways：
 
