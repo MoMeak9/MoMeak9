@@ -5,11 +5,8 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 
 - 🏫I'm studying in Fuzhou University/Maynooth University
 - 🤺Use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=Java)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+  [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.tonymacx86.com/)
 - 💻Work using:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
