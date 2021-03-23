@@ -1,5 +1,5 @@
 # Hey, MoMeak9 here! 🎃 ![](https://visitor-badge.glitch.me/badge?page_id=MoMeak9.readme)
-正在学习编程的小白
+正在向着全栈进发的小白
 
 I am a college student in China 🏫, like to pay attention to current affairs hot spots 🆕, Bilibili users 📺. You can reach me at the following ways：
 
@@ -24,3 +24,19 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 - 🍳Learning:
 
 ![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
+
+### 技术栈
+
+**前端**：HTML+CSS+JS+Vue+Node.js+webpack+Element_Ui+vant_Ui
+
+**后端**：Java+JDBC+MySql+Spring+SpringBoot2.X+Maven
+
+**Learning**：Vue-Admin+Mybaits+CubeUI+....
+
+**项目（学习）经历**：
+
+- 网络云盘（前端）
+- 仿写移动端电商（前端）
+- HR员工信息管理系统（后端）
+- 二手交易市场（前端）ing
+- 网络云盘（后端）ing
