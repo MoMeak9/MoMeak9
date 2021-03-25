@@ -11,7 +11,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   ![](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
   ![](https://img.shields.io/badge/WebStorm-001010?style=flat-square&logo=WebStorm&logoColor=ffffff)
   ![](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=ffffff)
-  ![](https://img.shields.io/badge/visual-studio-code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![](https://img.shields.io/badge/Visual-Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
   
 - 💻Work using language:
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
