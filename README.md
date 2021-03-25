@@ -11,7 +11,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   ![](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
   ![](https://img.shields.io/badge/WebStorm-001010?style=flat-square&logo=WebStorm&logoColor=ffffff)
   ![](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=ffffff)
-  ![](https://img.shields.io/badge/Visual-Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
+  ![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
   
 - 💻Work using language:
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -23,9 +23,9 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   
 - 🖥️Using tools:
   ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
-  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
-  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
+  ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+  ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=ffffff)
+  ![](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=ffffff)
   
 - 🍳Learning:
 
