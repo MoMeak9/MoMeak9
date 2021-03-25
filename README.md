@@ -11,6 +11,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   ![](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
   ![](https://img.shields.io/badge/WebStorm-001010?style=flat-square&logo=WebStorm&logoColor=ffffff)
   ![](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=ffffff)
+  ![](https://img.shields.io/badge/visual-studio-code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
   
 - 💻Work using language:
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -18,12 +19,13 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
   ![](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=ffffff)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
   
 - 🖥️Using tools:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
   
 - 🍳Learning:
 
