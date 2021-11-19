@@ -29,9 +29,9 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 
 ### 技术栈
 
-**前端**：HTML+CSS+JS+Vue+Node.js+webpack+Element_Ui+vant_Ui
+**前端**：HTML+CSS+JS+Vue+webpack+Element_Ui+vant_Ui
 
-**后端**：Java+JDBC+MySql+Spring+SpringBoot2.X+Maven
+**后端**：Java+JDBC+MySql+Spring+Python+Node.js+Express+Django
 
 **Learning**：Vuetify+React+Serverless+Webpack5....
 
@@ -40,13 +40,13 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 - 网络云盘（前端）
 - 仿写移动端电商（前端）
 - HR员工信息管理系统（后端）
-- 二手交易市场（前端）ing
-- 网络云盘（后端）ing
+- 二手交易市场（前端）
 - 微服务电子商务应用
 - TMS 运输管理系统
 - 企业管理系统
 
-### 杂项
+### 其他
 [个人文档库](https://doc.yihuiblog.top/)
+[gitee](https://gitee.com/shiyifei332)
 
 ![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
