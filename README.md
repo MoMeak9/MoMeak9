@@ -33,7 +33,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 
 **后端**：Java+JDBC+MySql+Spring+SpringBoot2.X+Maven
 
-**Learning**：Vue-Admin+Mybaits+CubeUI+....
+**Learning**：Vuetify+React+Serverless+Webpack5....
 
 **项目（学习）经历**：
 
@@ -42,6 +42,7 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 - HR员工信息管理系统（后端）
 - 二手交易市场（前端）ing
 - 网络云盘（后端）ing
+- 微服务电子商务应用
 - TMS 运输管理系统
 - 企业管理系统
 
