@@ -1,5 +1,10 @@
 # Hey, MoMeak9 here! 🎃 ![](https://visitor-badge.glitch.me/badge?page_id=MoMeak9.readme)
-正在向着全栈进发的小白
+
+正在找实习工作的前端小白（23届本科生），如果您可以帮助我，请务必联系：
+
+YIHUI.SHI.2020@MUMAIL.IE
+
+万分感激！
 
 I am a college student in China 🏫, like to pay attention to current affairs hot spots 🆕, Bilibili users 📺. You can reach me at the following ways：
 
@@ -27,26 +32,29 @@ I am a college student in China 🏫, like to pay attention to current affairs h
   
 - 🍳Learning:
 
-### 技术栈
+### 技术栈 Technology Stack
 
-**前端**：HTML+CSS+JS+Vue+webpack+Element_Ui+vant_Ui
+**前端**：HTML+CSS+JS+TS+Vue+Element_UI+ant_design+ESLint+Sass+Less...
 
-**后端**：Java+JDBC+MySql+Spring+Python+Node.js+Express+Django
+**后端**：Java+JDBC+MySql+Spring+Python+Node.js+Express+Django...
 
 **Learning**：Vuetify+React+Serverless+Webpack5....
 
-**项目（学习）经历**：
+
+**项目学习经历** Project
 
 - 网络云盘（前端）
 - 仿写移动端电商（前端）
 - HR员工信息管理系统（后端）
 - 二手交易市场（前端）
-- 微服务电子商务应用
-- TMS 运输管理系统
-- 企业管理系统
+- 学生会管理系统（全栈）
+- 微服务电子商务应用（前端）
+- TMS 运输管理系统（前端）
+- 企业管理系统（前端）
 
 ### 其他
 [个人文档库](https://doc.yihuiblog.top/)
+
 [gitee](https://gitee.com/shiyifei332)
 
 ![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
