@@ -55,6 +55,8 @@ I am a college student in China 🏫, like to pay attention to current affairs h
 ### 其他
 [个人文档库](https://doc.yihuiblog.top/)
 
+[LightWorld|辉光世界 官方网站](http://mc.syhwdsj.xyz/)
+
 [gitee](https://gitee.com/shiyifei332)
 
 ![](https://github-readme-stats.vercel.app/api?username=MoMeak9&theme=tokyonight&show_icons=true)
