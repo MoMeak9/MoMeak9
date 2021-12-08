@@ -40,7 +40,7 @@ I am a college student from China 🏫. I like to follow trending topics 🆕 an
 
 **Learning**：Vuetify+React+Serverless+Webpack5...
 
-**项目学习经历** Projects
+**项目学习经历 Projects**
 
 - 网络云盘（前端）
 - 仿写移动端电商（前端）
