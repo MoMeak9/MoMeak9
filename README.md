@@ -4,6 +4,8 @@
 
 YIHUI.SHI.2020@MUMAIL.IE
 
+831903202@fzu.edu.cn
+
 万分感激！
 
 I am a college student from China 🏫. I like to follow trending topics 🆕 and Bilibili content creators 📺. You can reach me in the following ways：
