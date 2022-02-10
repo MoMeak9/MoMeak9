@@ -1,6 +1,6 @@
 # Hey, MoMeak9 here! 🎃 ![](https://visitor-badge.glitch.me/badge?page_id=MoMeak9.readme)
 
-一个正在找实习工作的前端小白（23届软件工程本科），如果您可以帮助我，请务必联系：
+一个正在找实习工作的前端玩家（23届软件工程本科），如果您可以帮助我，请务必联系：
 
 YIHUI.SHI.2020@MUMAIL.IE
 
