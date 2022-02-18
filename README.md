@@ -22,7 +22,6 @@ I am a college student from China 🏫. I like to follow trending topics 🆕 an
   ![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=ffffff)
   ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
-  ![](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=ffffff)
   ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
   ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
   ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=ffffff)
