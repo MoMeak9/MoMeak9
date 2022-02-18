@@ -1,12 +1,9 @@
-# Hey, MoMeak9 here! 🎃 ![](https://visitor-badge.glitch.me/badge?page_id=MoMeak9.readme)
+# Hey, MoMeak9 here! 🎃
 
-一个正在找实习工作的前端玩家（23届软件工程本科），如果您可以帮助我，请务必联系：
-
-YIHUI.SHI.2020@MUMAIL.IE
-
-shi_yihui@qq.com
-
-万分感激！
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MoMeak9/count.svg" />
+</p>
 
 I am a college student from China 🏫. I like to follow trending topics 🆕 and Bilibili content creators 📺. You can reach me in the following ways：
 
