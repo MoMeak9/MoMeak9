@@ -32,5 +32,5 @@ I am a college student from China 🏫. I like to follow trending topics 🆕 an
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MC-official-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MyDocs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MC-official-website)](https://github.com/MoMeak9/MC-official-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MyDocs)](https://github.com/MoMeak9/MyDocs)
