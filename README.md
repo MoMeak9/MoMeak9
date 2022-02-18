@@ -1,12 +1,5 @@
 # Hey, MoMeak9 here! 🎃
 
-<svg width="320" height="200" xmlns="http://www.w3.org/2000/svg">
-    <text font-family="microsoft yahei" font-size="120" y="160" x="160">Hello World
-        <animate attributeName="x" from="160" to="60" begin="0s" dur="3s" repeatCount="indefinite" />
-        <animate attributeName="opacity" from="1" to="0" begin="0s" dur="3s" repeatCount="indefinite" />
-    </text>
-</svg>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MoMeak9/count.svg" />
