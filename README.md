@@ -29,26 +29,6 @@ I am a college student from China 🏫. I like to follow trending topics 🆕 an
   ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=ffffff)
   ![](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=ffffff)
   
-- 🍳 Learning:
-
-### 技术栈 Technology Stack
-
-**前端**：HTML+CSS+JS+TS+Vue+Element_UI+ant_design+ESLint+Sass+Less...
-
-**后端**：Java+JDBC+MySql+Spring+Python+Node.js+Express+Django...
-
-**Learning**：Vuetify+React+Serverless+Webpack5...
-
-**项目学习经历 Projects**
-
-- 网络云盘（前端）
-- 仿写移动端电商（前端）
-- HR员工信息管理系统（后端）
-- 二手交易市场（前端）
-- 学生会管理系统（全栈）
-- 微服务电子商务应用（前端）
-- TMS 运输管理系统（前端）
-- 企业管理系统（前端）
 
 ### 其他
 [个人文档库](https://doc.yihuiblog.top/)
@@ -57,8 +37,8 @@ I am a college student from China 🏫. I like to follow trending topics 🆕 an
 
 [gitee](https://gitee.com/shiyifei332)
 
-![](https://github-readme-stats.vercel.app/api?username=MoMeak9&show_icons=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoMeak9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoMeak9&show_icons=true&hide=issues&include_all_commits=true&theme=buefy&hide_border=true" alt="Yihui's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoMeak9&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MyDocs)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoMeak9&repo=MC-official-website)](https://github.com/anuraghazra/github-readme-stats)
