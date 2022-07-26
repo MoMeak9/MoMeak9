@@ -5,8 +5,10 @@
   <img src="https://profile-counter.glitch.me/MoMeak9/count.svg" />
 </p>
 
-![](https://img.shields.io/github/followers/MoMeak9?style=social)
-![](https://img.shields.io/github/stars/MoMeak9?style=social)
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/MoMeak9?style=social" />
+  <img src="https://img.shields.io/github/stars/MoMeak9?style=social" />
+</p>
 
 - 前端开发者一枚
 - 持续关注前端技术前沿并不断精进不断学习
