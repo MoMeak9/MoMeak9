@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/github/stars/MoMeak9?style=social" />
 </p>
 
-- 前端开发者一枚
-- 持续关注前端技术前沿并不断精进不断学习
-- 了解一些前端相关技术栈，热爱开源，工作学习之余在社区摸爬（bushi）
+- 🤓 前端开发者一枚，但是总会做点全栈的东西
+- 🐋 持续关注前端技术前沿，不断精进不断学习
+- 🍀 了解些前端相关技术栈，热爱开源，工作学习之余在社区摸爬（bushi）
 
 ### Technology Stack 🧐
 
