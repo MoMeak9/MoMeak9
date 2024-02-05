@@ -8,6 +8,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/MoMeak9?style=social" />
   <img src="https://img.shields.io/github/stars/MoMeak9?style=social" />
+  <a href="https://wakatime.com/@336fe226-cd18-4ca9-b2f9-925d0ecf715c"><img src="https://wakatime.com/badge/user/336fe226-cd18-4ca9-b2f9-925d0ecf715c.svg" alt="Total time coded since Mar 20 2021" /></a>
 </p>
 
 - 🤓 前端开发者一枚，但是总会做点全栈的东西
