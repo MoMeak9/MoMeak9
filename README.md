@@ -1,44 +1,101 @@
-# Hello, MoMeak9 here! 🎃
+<div align="center">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MoMeak9/count.svg" />
-</p>
+# Hey there! 👋 I'm MoMeak9
 
-<p align="center"> 
-  <img src="https://img.shields.io/github/followers/MoMeak9?style=social" />
-  <img src="https://img.shields.io/github/stars/MoMeak9?style=social" />
-  <a href="https://wakatime.com/@336fe226-cd18-4ca9-b2f9-925d0ecf715c"><img src="https://wakatime.com/badge/user/336fe226-cd18-4ca9-b2f9-925d0ecf715c.svg" alt="Total time coded since Mar 20 2021" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-Stack+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
 
-- 🤓 前端开发者一枚，但是总会做点全栈的东西
-- 🐋 持续关注前端技术前沿，不断精进不断学习
-- 🍀 了解些前端相关技术栈，热爱开源，工作学习之余在社区摸爬（bushi）
+![Profile Views](https://komarev.com/ghpvc/?username=MoMeak9&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-### Technology Stack 🧐
+[![GitHub followers](https://img.shields.io/github/followers/MoMeak9?logo=github&style=for-the-badge&color=0969da&labelColor=1c2128)](https://github.com/MoMeak9?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/MoMeak9?logo=github&style=for-the-badge&color=e3b341&labelColor=1c2128)](https://github.com/MoMeak9?tab=repositories)
+[![WakaTime](https://wakatime.com/badge/user/336fe226-cd18-4ca9-b2f9-925d0ecf715c.svg?style=for-the-badge)](https://wakatime.com/@336fe226-cd18-4ca9-b2f9-925d0ecf715c)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=JavaScript&logoColor=ffffff)
+</div>
 
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+---
 
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![](https://img.shields.io/badge/Webpack-skyblue?style=flat-square&logo=Webpack&logoColor=ffffff)
-![](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=ffffff)
+## 🙋‍♂️ About Me
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/Less-1171EE?style=flat-square&logo=Less&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+```javascript
+const MoMeak9 = {
+    role: "Frontend Developer",
+    location: "China 🇨🇳",
+    interests: ["Web Development", "Open Source", "Tech Exploration"],
+    currentFocus: "Building elegant & performant web applications",
+    funFact: "Always learning, always coding! 🚀"
+};
+```
 
-### Website 🥳
+- 🤓 **前端开发者**，偶尔客串全栈
+- 🐋 **持续学习**，紧跟前端技术前沿
+- 🍀 **热爱开源**，活跃于技术社区
 
-- [Yihui's Blog](https://yihuiblog.top/) 我的个人博客
-- [Docs](https://momeak9.github.io/MyDocs/) 个人文档库
-- [辉光世界公益社区](https://lwmc.net/) 我的世界服务器社区网站
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🎨 Styling
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MoMeak9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-![Metrics](https://metrics.lecoq.io/MoMeak9?template=classic&isocalendar=1&languages=1&people=1&stars=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoMeak9&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect & Explore
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/📝_Blog-yihuiblog.top-6C63FF?style=for-the-badge)](https://yihuiblog.top/)
+[![Docs](https://img.shields.io/badge/📚_Docs-MyDocs-00C853?style=for-the-badge)](https://momeak9.github.io/MyDocs/)
+[![Minecraft](https://img.shields.io/badge/🎮_Minecraft-辉光世界-FF6B6B?style=for-the-badge)](https://lwmc.net/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 「 Stay hungry, stay foolish. 」
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
