@@ -1,103 +1,85 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img src="./assets/profile-light.svg" alt="MoMeak9 — AI Native Engineer. Build with AI. Engineer with intent." width="100%">
+</picture>
 
-# Hi there! 👋 I'm MoMeak9
+<h1 align="center">Hi there, I'm MoMeak9 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-Stack+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
+<p align="center">
+  <strong>AI Native Engineer</strong><br>
+  Frontend craft. Full-stack engineering. AI-powered experiences.
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MoMeak9&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<a href="https://github.com/MoMeak9?tab=followers">
-  <img src="https://img.shields.io/github/followers/MoMeak9?logo=github&style=for-the-badge&color=0969da&labelColor=1c2128" alt="GitHub followers" />
-</a>
-<a href="https://github.com/MoMeak9?tab=repositories">
-  <img src="https://img.shields.io/github/stars/MoMeak9?logo=github&style=for-the-badge&color=e3b341&labelColor=1c2128" alt="GitHub stars" />
-</a>
-<a href="https://wakatime.com/@336fe226-cd18-4ca9-b2f9-925d0ecf715c">
-  <img src="https://wakatime.com/badge/user/336fe226-cd18-4ca9-b2f9-925d0ecf715c.svg?style=for-the-badge" alt="WakaTime" />
-</a>
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-```javascript
-const MoMeak9 = {
-    role: "Frontend Developer",
-    location: "China 🇨🇳",
-    interests: ["Web Development", "Open Source", "Tech Exploration"],
-    currentFocus: "Building elegant & performant web applications",
-    funFact: "Always learning, always coding! 🚀"
-};
-```
-
-- 🤓 **Frontend Developer** with a passion for Full Stack exploration.
-- 🐋 **Continuous Learner**, staying ahead of the curve in web technologies.
-- 🍀 **Open Source Enthusiast**, actively contributing to the tech community.
+<p align="center">
+  <a href="https://yihuiblog.top/">Blog</a> &nbsp; / &nbsp;
+  <a href="https://momeak9.github.io/MyDocs/">Notes</a> &nbsp; / &nbsp;
+  <a href="mailto:minntaki@foxmail.com">Contact</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-<div align="center">
+I'm an engineer with a strong **frontend foundation and a full-stack toolkit**, building thoughtful interfaces, developer tools, and AI applications.
 
-### 💻 Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+My work connects **rich text editing, component infrastructure, backend services, and AI workflows**. I focus on bringing model capabilities into useful interactions, connecting agents to tools and context, and making complex workflows maintainable.
 
-### ⚛️ Frontend Ecosystem
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+> Clear interactions. Traceable context. Results people can review and trust.
 
-### 🔙 Backend & Others
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+## Experience
 
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Bilibili · Senior Frontend Engineer**
 
-</div>
+June 2023 — Present
+
+Build core web experiences, with a focus on content creation, reusable UI infrastructure, and web security engineering.
+
+- **Rich text editing:** Led an editor architecture upgrade with Tiptap / ProseMirror, using a headless, plugin-based design. Improved content pasting across sources, formatting normalization, and custom content nodes.
+- **Component infrastructure:** Built and maintained a component library from the ground up. Supported application modernization with Vue 3, TypeScript, a monorepo, and Vite, including automated testing and SSR compatibility.
+- **Web security:** Owned SDK architecture and integration capabilities, focusing on runtime isolation, compatibility, and graceful degradation for reliable business integration.
+
+## AI Engineering
+
+### 01 / AI-Powered Interfaces
+
+Integrate LLM capabilities into product workflows, including AI text suggestions in collaborative editors. Use **diff previews, per-suggestion accept / reject controls, and loading and error states** to keep users in control of generated changes.
+
+### 02 / Agent Tools & Context
+
+Build reusable context capabilities for coding agents through **CLI tools, MCP servers, and plugin integrations**. Work with Markdown + Git memory storage, local retrieval, and session-aware recall to support auditable memory and context reuse across repositories.
+
+### 03 / Multi-Agent Workflows
+
+Develop applications on existing agent frameworks with **LangGraph orchestration, specialized agent roles, LLM provider abstractions, and data adapters**. Expose multi-stage workflows through CLI and API interfaces.
+
+### 04 / Reliable AI Applications
+
+Work on the engineering around model calls: **structured tool outputs, source attribution, explicit missing-data signals, asynchronous task states, regression tests, and deployment configuration**. Keep outputs inspectable and failures easier to diagnose.
+
+## Tech Stack
+
+| Area | Technologies & Tools |
+| :--- | :--- |
+| Frontend | TypeScript · JavaScript · HTML · CSS · React · Vue · Next.js |
+| Styling | Tailwind CSS · Sass · Styled Components |
+| Backend | Go · Node.js · Python |
+| Data & Caching | MySQL · Redis · SQLite / FTS |
+| Infrastructure | Kubernetes (K8s) · Docker · Git |
+| AI & Agents | LLM APIs · LangGraph · MCP · Agent Memory |
+| Collaborative Editing | Tiptap · ProseMirror · Yjs · WebSocket · Diff Review |
+| Systems & Runtime | Rust · WebAssembly |
+| Tooling & Quality | Monorepo · Vite · Rollup · ESLint · Automated Testing · SSR Testing |
+
+## Writing & Contact
+
+I document engineering ideas and lessons on my [blog](https://yihuiblog.top/) and in my [technical notes](https://momeak9.github.io/MyDocs/).
+
+**Email:** [minntaki@foxmail.com](mailto:minntaki@foxmail.com)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MoMeak9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoMeak9&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌐 Connect & Explore
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/📝_Blog-yihuiblog.top-6C63FF?style=for-the-badge)](https://yihuiblog.top/)
-[![Docs](https://img.shields.io/badge/📚_Docs-MyDocs-00C853?style=for-the-badge)](https://momeak9.github.io/MyDocs/)
-[![Minecraft](https://img.shields.io/badge/🎮_Minecraft-Glow_World-FF6B6B?style=for-the-badge)](https://lwmc.net/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 「 Stay hungry, stay foolish. 」
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <sub>Build with AI. Engineer with intent.</sub><br>
+  <sub>Stay curious. Turn ideas into working software.</sub>
+</p>

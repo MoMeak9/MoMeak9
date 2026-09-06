@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">MoMeak9 — AI Native Engineer</title>
+  <desc id="desc">Build with AI. Engineer with intent. An understated blue and titanium banner with a connected node motif.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="960" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6f8fa"/><stop offset="1" stop-color="#eaf1f8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#d6e1ec" stroke-opacity="0.35"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="279" rx="8" fill="url(#surface)" stroke="#d6e1ec"/>
+  <path d="M48 44H78" stroke="#246aab" stroke-width="3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="92" y="49" fill="#53677d" font-size="16">MoMeak9 / Developer</text>
+    <text x="46" y="128" fill="#182838" font-size="52" font-weight="600">AI Native.</text>
+    <text x="48" y="174" fill="#53677d" font-size="22">Build with AI. Engineer with intent.</text>
+    <text x="48" y="236" fill="#246aab" font-size="16">Frontend · Agents · Developer Tools</text>
+  </g>
+  <svg x="620" y="20" width="320" height="240" viewBox="0 0 320 240">
+    <rect width="320" height="240" fill="url(#grid)"/>
+    <g stroke="#d6e1ec" stroke-width="1.5">
+      <path d="M40 60H124L168 120H268M40 180H124L168 120M168 120L228 40M168 120L228 200"/>
+      <circle cx="168" cy="120" r="60"/><circle cx="168" cy="120" r="84" stroke-dasharray="3 9"/>
+    </g>
+    <g fill="#f6f8fa" stroke="#246aab" stroke-width="1.5">
+      <rect x="147" y="99" width="42" height="42" rx="8"/>
+      <circle cx="40" cy="60" r="5"/><circle cx="40" cy="180" r="5"/>
+      <circle cx="228" cy="40" r="5"/><circle cx="228" cy="200" r="5"/>
+      <circle cx="268" cy="120" r="5"/>
+    </g>
+    <path d="M160 114L154 120L160 126M176 114L182 120L176 126M171 111L165 129" stroke="#246aab" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</svg>
