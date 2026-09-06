@@ -7,6 +7,10 @@
 <h1 align="center">Hi there, I'm MoMeak9 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=AI+Native+Engineer;Full-Stack+Developer;Building+with+AI" alt="Animated introduction: AI Native Engineer, Full-Stack Developer, Building with AI" width="600">
+</p>
+
+<p align="center">
   <strong>AI Native Engineer</strong><br>
   Frontend craft. Full-stack engineering. AI-powered experiences.
 </p>
@@ -14,6 +18,7 @@
 <p align="center">
   <a href="https://yihuiblog.top/">Blog</a> &nbsp; / &nbsp;
   <a href="https://momeak9.github.io/MyDocs/">Notes</a> &nbsp; / &nbsp;
+  <a href="https://juejin.cn/user/317122698296024">Juejin</a> &nbsp; / &nbsp;
   <a href="mailto:minntaki@foxmail.com">Contact</a>
 </p>
 
@@ -29,7 +34,7 @@ My work connects **rich text editing, component infrastructure, backend services
 
 ## Experience
 
-**Bilibili · Senior Frontend Engineer**
+**bilibili · Senior Software Engineer**
 
 June 2023 — Present
 
@@ -73,7 +78,7 @@ Work on the engineering around model calls: **structured tool outputs, source at
 
 ## Writing & Contact
 
-I document engineering ideas and lessons on my [blog](https://yihuiblog.top/) and in my [technical notes](https://momeak9.github.io/MyDocs/).
+I share engineering ideas and lessons on my [blog](https://yihuiblog.top/), in my [technical notes](https://momeak9.github.io/MyDocs/), and on [Juejin](https://juejin.cn/user/317122698296024).
 
 **Email:** [minntaki@foxmail.com](mailto:minntaki@foxmail.com)
 

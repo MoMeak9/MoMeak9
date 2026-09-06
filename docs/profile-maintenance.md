@@ -7,7 +7,7 @@ This repository powers the GitHub profile README. The entry point is `README.md`
 - Keep all profile copy in English for an international audience.
 - Use GitHub-compatible Markdown and HTML, including the centered introduction and theme-aware `picture` banner.
 - Maintain `assets/profile-light.svg` and `assets/profile-dark.svg` together. Main content must remain readable without images.
-- Keep the restrained blue-gray palette and avoid making essential content depend on external image services.
+- Keep the restrained blue-gray palette. Preserve the animated typing introduction from readme-typing-svg; static identity text remains available if the external animation fails.
 - Do not include a featured-project section, personal repository recommendations, or project names promoting personal repositories.
 - List Go, Node.js, MySQL, Redis, and Kubernetes as part of the full-stack toolkit, not as technologies being explored.
 - Publish only the requested email address, `minntaki@foxmail.com`, with a `mailto:` link.
@@ -40,3 +40,5 @@ During the September 6, 2026 HTTPS checks, the technical notes returned HTTP 200
 Local light and dark previews approximate GitHub styling. Keep them outside tracked deliverables. After editing, regenerate both from the current README, check mobile wrapping and image loading, and run `git diff --check`.
 
 Changes remain local until explicitly committed and pushed. The preview is not a deployed GitHub profile.
+
+The user clarified the current role as **bilibili · Senior Software Engineer** and requested the Juejin profile link alongside the restored animated introduction.
