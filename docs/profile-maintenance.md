@@ -6,8 +6,8 @@ This repository powers the GitHub profile README. The entry point is `README.md`
 
 - Keep all profile copy in English for an international audience.
 - Use GitHub-compatible Markdown and HTML, including the centered introduction and theme-aware `picture` banner.
-- Maintain `assets/profile-light.svg` and `assets/profile-dark.svg` together. Main content must remain readable without images.
-- Keep the restrained blue-gray palette. Preserve the animated typing introduction from readme-typing-svg; static identity text remains available if the external animation fails.
+- Maintain the light/dark `profile-*.svg` hero and `footer-*.svg` assets together. Main content must remain readable without images.
+- Use the aurora palette: blue, cyan, and violet over light titanium or deep navy surfaces. Preserve the animated typing introduction in `assets/typing.svg`; static identity text remains available without images.
 - Do not include a featured-project section, personal repository recommendations, or project names promoting personal repositories.
 - List Go, Node.js, MySQL, Redis, and Kubernetes as part of the full-stack toolkit, not as technologies being explored.
 - Publish only the requested email address, `minntaki@foxmail.com`, with a `mailto:` link.
@@ -42,3 +42,9 @@ Local light and dark previews approximate GitHub styling. Keep them outside trac
 Changes remain local until explicitly committed and pushed. The preview is not a deployed GitHub profile.
 
 The user clarified the current role as **bilibili · Senior Software Engineer** and requested the Juejin profile link alongside the restored animated introduction.
+
+## Visual System
+
+The profile uses self-contained SVG artwork with slow orbital rotation, aurora lighting, and traveling footer highlights. Essential copy stays in native Markdown. All local animations, including the typing introduction, honor `prefers-reduced-motion`. The typing effect was recreated locally after the external image loaded inconsistently in the preview.
+
+The personal `github-profile-studio` skill was created and applied to this redesign. Its asset helper generates the theme pairs; artwork in this repository can also be edited directly without installing the skill. Temporary preview files and personal skill configuration are not part of this repository.

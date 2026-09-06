@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img src="./assets/profile-light.svg" alt="MoMeak9 — AI Native Engineer. Build with AI. Engineer with intent." width="100%">
+  <img src="./assets/profile-light.svg" alt="MoMeak9 — AI Native Engineer. Engineering with intelligence." width="100%">
 </picture>
 
 <h1 align="center">Hi there, I'm MoMeak9 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=AI+Native+Engineer;Full-Stack+Developer;Building+with+AI" alt="Animated introduction: AI Native Engineer, Full-Stack Developer, Building with AI" width="600">
+  <img src="./assets/typing.svg" alt="Animated introduction: AI Native Engineer, Full-Stack Developer, Building with AI" width="600">
 </p>
 
 <p align="center">
@@ -88,3 +88,9 @@ I share engineering ideas and lessons on my [blog](https://yihuiblog.top/), in m
   <sub>Build with AI. Engineer with intent.</sub><br>
   <sub>Stay curious. Turn ideas into working software.</sub>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer-light.svg" alt="Flowing aurora light trails" width="100%">
+</picture>
